@@ -1,7 +1,7 @@
 {
   "name": "search-engine-tool",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "可能是免费中最好用的搜索引擎API工具",
   "main": "searchEngineTool.js",
   "bin": {
     "search-engine-tool": "./searchEngineTool.js"

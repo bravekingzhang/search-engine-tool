@@ -44,3 +44,35 @@ searchEngineTool(query, engine)
   });
 
 ```
+
+# 效果预览
+
+<img src="https://github.com/bravekingzhang/search-engine-tool/blob/main/artificial/41687581160_.pic.jpg"  style="width: 50%;">
+
+# 支持特性
+
+- [x] Google
+- [x] Bing
+- [x] DuckDuckGo
+- [x] yahoo
+
+# 开源共建
+
+让我们一起改进，把这个搜索API做得更加好用一些。
+
+# 给我打 call
+
+如果你觉得对你有用，就请我一杯咖啡。
+
+<img src="https://github.com/bravekingzhang/utools-code2flow-official/blob/main/shoukuanma.png" alt="收款码" style="width: 40%;" />
+
+# 加入群聊
+
+<img src="https://github.com/bravekingzhang/flutter_chat_box/blob/main/artificial/qunliao.pic.jpg"  style="width: 50%;">
+
+添加我，注明自己 github 账号名，入群的目的，加入群聊，一起学习。
+
+# License: MIT
+
+本项目采用 MIT 许可证授权。
+
