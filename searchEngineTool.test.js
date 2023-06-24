@@ -2,7 +2,7 @@ const searchEngineTool = require("./searchEngineTool");
 
 describe("searchEngineTool", () => {
   test("should return search results from google", async () => {
-    const query = "麦苗莹";
+    const query = "深圳天气";
     const engine = "google";
 
     const results = await searchEngineTool(query, engine);
@@ -22,7 +22,7 @@ describe("searchEngineTool", () => {
   });
 
   test("should return search results from bing", async () => {
-    const query = "麦苗莹";
+    const query = "深圳天气";
     const engine = "bing";
 
     const results = await searchEngineTool(query, engine);
@@ -42,7 +42,7 @@ describe("searchEngineTool", () => {
   });
 
   test("should return search results from yahoo", async () => {
-    const query = "麦苗莹";
+    const query = "深圳天气";
     const engine = "yahoo";
 
     const results = await searchEngineTool(query, engine);
@@ -58,7 +58,7 @@ describe("searchEngineTool", () => {
     });
   });
   test("should return search results from duckduckgo", async () => {
-    const query = "麦苗莹";
+    const query = "深圳天气";
     const engine = "duckduckgo";
 
     const results = await searchEngineTool(query, engine);
