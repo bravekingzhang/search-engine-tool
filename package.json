@@ -1,0 +1,23 @@
+{
+  "name": "search-engine-tool",
+  "version": "1.0.3",
+  "description": "",
+  "main": "searchEngineTool.js",
+  "bin": {
+    "search-engine-tool": "./searchEngineTool.js"
+  },
+  "keywords": [
+    "search",
+    "engine",
+    "tool"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "puppeteer": "^20.7.3"
+  }
+}
